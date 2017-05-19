@@ -1,0 +1,1 @@
+C:\Users\Mohamed\Documents\Visual Studio 2017\Projects\HeartRateSensor\HeartRateSensor\HeartRateSensor.csproj;arm
