@@ -23,16 +23,16 @@ w\:* {behavior:url(#default#VML);}
   <o:Author>Mohamed Emam</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>Mohamed Emam</o:LastAuthor>
-  <o:Revision>4</o:Revision>
-  <o:TotalTime>0</o:TotalTime>
+  <o:Revision>6</o:Revision>
+  <o:TotalTime>1</o:TotalTime>
   <o:Created>2017-05-19T19:04:00Z</o:Created>
-  <o:LastSaved>2017-05-19T19:07:00Z</o:LastSaved>
+  <o:LastSaved>2017-05-19T19:09:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>41</o:Words>
-  <o:Characters>236</o:Characters>
+  <o:Words>38</o:Words>
+  <o:Characters>222</o:Characters>
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>276</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>259</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -685,9 +685,6 @@ p.msonormal0, li.msonormal0, div.msonormal0
 	font-family:"Times New Roman",serif;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:minor-fareast;}
-span.SpellE
-	{mso-style-name:"";
-	mso-spl-e:yes;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
@@ -733,15 +730,9 @@ div.WordSection1
 
 <div class=WordSection1>
 
-<p class=MsoNormal><span class=SpellE><span style='mso-fareast-font-family:
-"Times New Roman"'>HeartRateSensor</span></span><span style='mso-fareast-font-family:
-"Times New Roman"'> <o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
-
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>Reading
 data coming out of Heart Rate Pulse Sensor connected to a Raspberry Pi using a
-UWP <span class=SpellE>Appliction</span>. <o:p></o:p></span></p>
+UWP Application. <o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
