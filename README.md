@@ -23,16 +23,16 @@ w\:* {behavior:url(#default#VML);}
   <o:Author>Mohamed Emam</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>Mohamed Emam</o:LastAuthor>
-  <o:Revision>2</o:Revision>
+  <o:Revision>4</o:Revision>
   <o:TotalTime>0</o:TotalTime>
   <o:Created>2017-05-19T19:04:00Z</o:Created>
-  <o:LastSaved>2017-05-19T19:04:00Z</o:LastSaved>
+  <o:LastSaved>2017-05-19T19:07:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>46</o:Words>
-  <o:Characters>268</o:Characters>
-  <o:Lines>2</o:Lines>
+  <o:Words>41</o:Words>
+  <o:Characters>236</o:Characters>
+  <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>313</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>276</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -61,6 +61,7 @@ w\:* {behavior:url(#default#VML);}
    <w:BreakWrappedTables/>
    <w:SplitPgBreakAndParaMark/>
   </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
   <m:mathPr>
    <m:mathFont m:val="Cambria Math"/>
    <m:brkBin m:val="before"/>
@@ -732,13 +733,25 @@ div.WordSection1
 
 <div class=WordSection1>
 
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'># <span
-class=SpellE>HeartRateSensor</span> Reading data coming out of Heart Rate Pulse
-Sensor connected to a Raspberry Pi using a UWP <span class=SpellE>Appliction</span>.
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD ======= </span><span style='mso-no-proof:
-yes'><!--[if gte vml 1]><v:shapetype id="_x0000_t75" coordsize="21600,21600"
- o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f"
- stroked="f">
+<p class=MsoNormal><span class=SpellE><span style='mso-fareast-font-family:
+"Times New Roman"'>HeartRateSensor</span></span><span style='mso-fareast-font-family:
+"Times New Roman"'> <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>Reading
+data coming out of Heart Rate Pulse Sensor connected to a Raspberry Pi using a
+UWP <span class=SpellE>Appliction</span>. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype
+ id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+ path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
  <v:stroke joinstyle="miter"/>
  <v:formulas>
   <v:f eqn="if lineDrawn pixelLineWidth 0"/>
@@ -757,15 +770,21 @@ yes'><!--[if gte vml 1]><v:shapetype id="_x0000_t75" coordsize="21600,21600"
  <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
  <o:lock v:ext="edit" aspectratio="t"/>
 </v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_i1025" type="#_x0000_t75"
- style='width:324.75pt;height:348.75pt;visibility:visible;mso-wrap-style:square'>
+ alt="Scheme" style='width:324.75pt;height:348.75pt;visibility:visible;
+ mso-wrap-style:square'>
  <v:imagedata src="README_files/image001.png" o:title="Scheme"/>
 </v:shape><![endif]--><![if !vml]><img width=433 height=465
-src="README_files/image001.png" v:shapes="Picture_x0020_1"><![endif]></span><span
-style='mso-fareast-font-family:"Times New Roman"'>Follow the instruction on
-Hackster.io through this link: https://www.hackster.io/mohamedemam0/windows-10-iot-core-reading-heart-rate-pulses-e3af03
-&gt;&gt;&gt;&gt;&gt;&gt;&gt; origin/master <o:p></o:p></span></p>
+src="README_files/image001.png" alt=Scheme v:shapes="Picture_x0020_1"><![endif]></span><span
+style='mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>Follow
+the instruction on Hackster.io through this link: <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>https://www.hackster.io/mohamedemam0/windows-10-iot-core-reading-heart-rate-pulses-e3af03<o:p></o:p></span></p>
 
 </div>
 
